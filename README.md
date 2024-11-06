@@ -1,5 +1,10 @@
 # vehicles
 Proyecto Sprint 7
+
+Repositorio de Github: https://github.com/emiliolaratraductor/vehicles.git
+
+Render: 
+
 Explicación del proyecto:
 Esta aplicación web sirve como un cuadro de mando interactivo para explorar y analizar datos de anuncios de vehículos en venta. Desarrollada con Streamlit, la aplicación permite a los usuarios visualizar y entender patrones clave en el conjunto de datos, como la distribución de precios y la relación entre el kilometraje y el precio.
 

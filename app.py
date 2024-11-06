@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-data_path = '/Users/emilio/Desktop/sprint/vehicles/vehicles_us.csv'
+data_path = '/Users/emilio/Documents/GitHub/vehicles/vehicles_us.csv'
 df = pd.read_csv(data_path)
 # Add a header
 st.header("Datos de vehículos")
